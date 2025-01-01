@@ -8,7 +8,7 @@ My PhD supervisor, Dr. Camp, has a big lab, mostly occupied with drones and wire
 
 The following is my thoughts on what is happening in tech right now: As AI evolves (OpenAI o3 is called AGI by some), it becomes more and more clear (at least to me) that every firm will need to have access to a private LLM to advance their mega projects securely. Simply, this cannot be possible, unless we cover every place on the earth with data centers. Similar to the cloud computing technology that did not get enough attention from established firms, LLMs will not be trusted without a mechanism that ensures data privacy. 
 
-Taking into account the above, FHE is going to be one of three main players helping the widespread usage of LLMs, as it ensures privacy at the node level. No doubt, it is slow now, but it won't be soon.
+Taking into account the above, as it ensures privacy at the node level, FHE is going to be one of three main players offering a solution for the data privacy problem in LLMs. No doubt, it is slow now, but it won't be soon.
 
 
 
