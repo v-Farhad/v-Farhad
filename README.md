@@ -2,7 +2,7 @@
 
 The EEEE may show my excitment for writing about me. Or, it may be interpreted as a sign of narcissim. I am fine with both.
 
-Though a little old for being a student, I am a PhD student at SMU in Dalls, Texas. I am currently working on privacy in vehicular systems, doing my best (and even more) to apply FHE-based methods to real-world engineering problems. So Far So Good!
+Though a little old for being a student, I am a PhD student at SMU in Dallas, Texas. I am currently working on privacy in vehicular systems, doing my best (and even more) to apply FHE-based methods to real-world engineering problems. So Far So Good!
 
 My PhD supervisor, Dr. Camp, has a big lab, mostly occupied with drones and wireless equipment. Later robot dogs will be added. The lab helps the science community proceed with swarm intelligence. Hopefully, as time passes, I will extend FHE methods to swarm intelligence algos and test it in practical settings.
 
